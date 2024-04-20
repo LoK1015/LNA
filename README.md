@@ -1,6 +1,8 @@
 # LNA
 HKUST ELEC 5280 HW2 
 
+Simulation run on  ADE Explorer (maestro folder)
+
 Single Stage LNA Result @28Ghz
 S11 dB	-17.6562
 
